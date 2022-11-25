@@ -17,6 +17,6 @@ Olá! Eu sou a Natacha Gonçalves
 ##
 
 <div> 
-  <a href = "https://api.whatsapp.com/send/?phone=5519997897705&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/natacha-gon%C3%A7alves-568022247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://api.whatsapp.com/send/?phone=5519997897705&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" </a>
+  <a href="https://www.linkedin.com/in/natacha-gon%C3%A7alves-568022247/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
